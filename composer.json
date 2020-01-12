@@ -1,0 +1,6 @@
+{
+    "name": "mehdi/intro-twig",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
